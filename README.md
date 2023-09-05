@@ -8,8 +8,6 @@ A patient in distress or a patient who is brought in confused or unresponsive ma
 Medical records may take days to transfer, especially for a patient from another medical provider or system.
 Knowledge about chronic conditions can inform clinical decisions about patient care and ultimately improve patient's survival outcomes.
 
-source of dataset - Click Here 
-
 🧭 Problem Statement: 
 The target feature is hospital_death which is a binary variable. 
 The task is to classify this variable based on the other 84 features step-by-step by going through each day's task.
